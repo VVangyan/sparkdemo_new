@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sparkdemo01/sparkdemo01.iml" filepath="$PROJECT_DIR$/sparkdemo01/sparkdemo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkdemo_new.iml" filepath="$PROJECT_DIR$/sparkdemo_new.iml" />
+    </modules>
+  </component>
+</project>
